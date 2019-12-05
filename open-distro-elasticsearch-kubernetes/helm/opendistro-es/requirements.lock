@@ -1,0 +1,6 @@
+dependencies:
+- name: elasticsearch-exporter
+  repository: https://kubernetes-charts.storage.googleapis.com/
+  version: 2.1.1
+digest: sha256:33fee3426fdcb82841bae6f7c0b1030dc076c67180fa6263367d9509f38ec8d6
+generated: 2019-12-05T15:54:02.708888859-05:00

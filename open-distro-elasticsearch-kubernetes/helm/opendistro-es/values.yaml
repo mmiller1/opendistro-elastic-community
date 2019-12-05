@@ -343,3 +343,7 @@ elasticsearch:
 
 nameOverride: ""
 fullnameOverride: ""
+
+elasticsearch-exporter:
+  enabled: false
+  # See https://github.com/helm/charts/blob/master/stable/elasticsearch-exporter/values.yaml for options
